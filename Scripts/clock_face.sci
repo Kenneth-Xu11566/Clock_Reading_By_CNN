@@ -1,4 +1,4 @@
-function B=clockFace()
+function B=clockFace() 
     B=zeros(1280,1280,3);
     centerX = 640.5;
     centerY = 640.5;
